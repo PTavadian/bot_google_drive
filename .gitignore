@@ -1,0 +1,8 @@
+venv
+voice
+__pycache__
+bot_run_desktop.bat
+bot_run_laptop.bat
+client_secrets.json
+
+
